@@ -7,7 +7,7 @@ export default class Nav extends Component {
       <Navbar rounded>
           <Navbar.Brand href="https://flowbite-react.com">
             <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="" width={"80px"} />
-            <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Flowbite React</span>
+            <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">News Raccoon</span>
           </Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse>
