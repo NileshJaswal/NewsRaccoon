@@ -1,0 +1,10 @@
+$mobile: "max-width: 767px";
+$desktop: "min-width: 768px";
+.newsItem {
+  img {
+    max-height: 183px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: top;
+  }
+}
